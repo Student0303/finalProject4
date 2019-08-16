@@ -1,0 +1,38 @@
+{
+  "companyName": "The Weird Company",
+  "headOffice": "Barrie, Ontario",
+  "established": 2011,
+  "active": true,
+  "topDeals": [
+    {
+      "name": "Chilly Chesse Cake",
+      "price": 28.00,
+      "description": "Awesome treat to your taste buds!.",
+      "features": [
+        "Cake With a punch of spice in it",
+        "Eat it like you would eat a normal cake."
+      ],
+      "image": "chillyCake.jpg"
+    },
+    {
+      "name": "Bubble Dress",
+      "price": 21.95,
+      "description": " Wrap yourself in a bubble wrap dress ",
+      "features": [
+        "Get the trendy and cool look",
+        "Stand out differently among everyone!"
+      ],
+      "image": "bubble.jpg"
+    },
+    {
+      "name": "Partner Pillow",
+      "price": 12.22,
+      "description": "No need to sleep alone when you have a partner pillow!!",
+      "features": [
+        "This might be the only pillow in the world that will hug you after you sleep",
+        "Best product if you cannot sleep alone or need someone to cuddle you!!"
+      ],
+      "image": "partner.jpg"
+    }
+  ]
+}
